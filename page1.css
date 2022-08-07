@@ -550,6 +550,7 @@ header {
 
 .input-element textarea {
 	padding-bottom: 106px;
+	resize: none;
 	max-width: 100%;
 }
 
